@@ -7,5 +7,5 @@ A simple "game" made in basic javascript inspired by the **Snake Game**, an old 
 ![](/src/github-files/snake-nokia.png)
 
 ## How to play
-### Go to [Page of Game](averaldof.github.io/Snake-Game/)
+### Go to [Page of Game](https://averaldof.github.io/Snake-Game/)
 the objective of the game is to eat as many apples as possible (represented by red dots), with each apple consumed the snake increases in size, if the snake reaches its own body, it dies, returning to its original size
